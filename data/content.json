@@ -1,0 +1,1558 @@
+{
+    "updated": "2026-10-28 12:00",
+    "prices": {
+        "ppf_el": "от 4 000 ₽",
+        "ppf_city": "30 000 ₽",
+        "ppf_std": "45 000 ₽",
+        "ppf_max": "от 65 000 ₽",
+        "wrap_car": "от 190 000 ₽",
+        "wrap_suv": "от 210 000 ₽",
+        "wrap_jeep": "от 250 000 ₽",
+        "vinyl_el": "от 10 000 ₽",
+        "antichrome": "от 10 000 ₽",
+        "tint_front": "от 3 000 ₽",
+        "tint_rear": "от 6 000 ₽",
+        "tint_ws": "от 4 000 ₽",
+        "tint_ath": "от 4 000 ₽",
+        "tint_cham": "от 5 000 ₽",
+        "tint_lights": "от 6 000 ₽",
+        "tint_remove": "от 1 000 ₽",
+        "armor_lights": "от 4 000 ₽",
+        "armor_glass": "от 20 000 ₽",
+        "armor_interior": "от 3 000 ₽",
+        "polish": "от 5 000 ₽",
+        "polish_lights": "от 3 000 ₽",
+        "ceramic": "от 8 000 ₽",
+        "clean": "от 5 000 ₽",
+        "noise_door": "от 18 000 ₽",
+        "noise_floor": "от 35 000 ₽",
+        "noise_roof": "от 10 000 ₽",
+        "noise_arches": "от 18 000 ₽",
+        "noise_trunk": "от 12 000 ₽",
+        "noise_hood": "в подарок",
+        "noise_dash": "от 25 000 ₽",
+        "noise_pack": "от 75 000 ₽",
+        "biled_std": "от 22 000 ₽",
+        "biled_pro": "от 45 000 ₽"
+    },
+    "promos": [
+        {
+            "tag": "Подарок",
+            "t": "Оклейка фар в подарок",
+            "d": "Оклеиваем капот плёнкой целиком — фары защитим плёнкой бесплатно.",
+            "svc": "PPF — «Стандарт»",
+            "note": "Акция: Оклейка фар в подарок",
+            "btn": "Записаться"
+        },
+        {
+            "tag": "Подарок",
+            "t": "Антидождь на все стёкла",
+            "d": "Бронируем кузов плёнкой по зонам риска — наносим антидождь на все стёкла в подарок.",
+            "svc": "PPF — зона риска «Городской»",
+            "note": "Акция: Антидождь на все стёкла",
+            "btn": "Записаться"
+        },
+        {
+            "tag": "Бесплатно",
+            "t": "Полировка фар — 50 машин в октябре",
+            "d": "В октябре бесплатно отполируем фары 50 машинам: вернём прозрачность и яркий свет. Запишитесь, пока есть места.",
+            "from": "2026-10-01",
+            "until": "2026-10-31",
+            "svc": "Полировка фар",
+            "note": "Акция: Полировка фар — 50 машин в октябре",
+            "btn": "Занять место",
+            "total": 50,
+            "left": 23
+        }
+    ],
+    "courses": [
+        {
+            "t": "Оклейка защитной плёнкой PPF",
+            "d": "Подготовка кузова, раскрой, оклейка с заворотом кромок, сложные элементы — бампер и зеркала.",
+            "l": [
+                "практика на реальных машинах",
+                "работа с плёнками «Азбуки Плёнок»",
+                "сертификат студии"
+            ],
+            "time": "5 дней"
+        },
+        {
+            "t": "Тонировка",
+            "d": "Выкройка, формовка по стеклу, оклейка задней полусферы и передних стёкол по ГОСТ, снятие старой плёнки.",
+            "l": [
+                "плёнки LLumar",
+                "замер светопропускания",
+                "сертификат студии"
+            ],
+            "time": "3 дня"
+        },
+        {
+            "t": "Полировка и керамика",
+            "d": "Замер ЛКП, абразивная и финишная полировка, подготовка и нанесение керамики, контроль при разном свете.",
+            "l": [
+                "круги и пасты — наши",
+                "практика на машинах клиентов",
+                "сертификат студии"
+            ],
+            "time": "4 дня"
+        }
+    ],
+    "edits": [],
+    "links": {
+        "tg": "https://t.me/+79061350011"
+    },
+    "albums": [],
+    "shop": {
+        "cats": [
+            [
+                "chem",
+                "Автохимия"
+            ],
+            [
+                "coat",
+                "Керамика и защитные покрытия"
+            ],
+            [
+                "polish",
+                "Полировка"
+            ],
+            [
+                "micro",
+                "Микрофибра и полотенца"
+            ],
+            [
+                "film",
+                "Инструмент для оклейки"
+            ],
+            [
+                "acc",
+                "Кисти и щётки"
+            ],
+            [
+                "elec",
+                "Электроника"
+            ],
+            [
+                "wipe",
+                "Щётки стеклоочистителя"
+            ]
+        ],
+        "items": [
+            {
+                "id": "01621",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Quick Point — средство по уходу за автомобилем, цитрус",
+                "vol": "450 мл",
+                "price": 310,
+                "img": [
+                    "01621"
+                ]
+            },
+            {
+                "id": "01632",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Quick Point — быстрое средство по уходу, парфюм",
+                "vol": "450 мл",
+                "price": 310,
+                "img": [
+                    "01632"
+                ]
+            },
+            {
+                "id": "01630",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Quick Point — быстрое средство по уходу, кола",
+                "vol": "450 мл",
+                "price": 360,
+                "img": [
+                    "01630"
+                ]
+            },
+            {
+                "id": "01624",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Quick Point — быстрое средство по уходу, манго",
+                "vol": "450 мл",
+                "price": 360,
+                "img": [
+                    "01624"
+                ]
+            },
+            {
+                "id": "01839",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Quick Point Perfume — средство по уходу за автомобилем",
+                "vol": "5 л",
+                "price": 1350,
+                "img": [
+                    "01839"
+                ]
+            },
+            {
+                "id": "01644",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Matt Polish — полироль-очиститель пластика, матовый",
+                "vol": "450 мл",
+                "price": 360,
+                "img": [
+                    "01644"
+                ]
+            },
+            {
+                "id": "01637",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Matt Polish — матовый полироль (чёрная серия)",
+                "vol": "450 мл",
+                "price": 360,
+                "img": [
+                    "01637"
+                ]
+            },
+            {
+                "id": "01640",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Universal Cleaner — универсальное средство для химчистки",
+                "vol": "450 мл",
+                "price": 210,
+                "img": [
+                    "01640"
+                ]
+            },
+            {
+                "id": "01642",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Glass Point — универсальный очиститель стёкол",
+                "vol": "450 мл",
+                "price": 220,
+                "img": [
+                    "01642"
+                ]
+            },
+            {
+                "id": "01668",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Black Matt — чернитель резины",
+                "vol": "450 мл",
+                "price": 540,
+                "img": [
+                    "01668"
+                ]
+            },
+            {
+                "id": "01669",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Iron Point Top — нейтральный очиститель дисков с индикатором",
+                "vol": "450 мл",
+                "price": 470,
+                "img": [
+                    "01669"
+                ]
+            },
+            {
+                "id": "01836",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Iron Point Top — нейтральный очиститель дисков с индикатором",
+                "vol": "5 л",
+                "price": 3340,
+                "img": [
+                    "01836"
+                ]
+            },
+            {
+                "id": "01672",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Bitum Top — очиститель битумных пятен",
+                "vol": "450 мл",
+                "price": 640,
+                "img": [
+                    "01672"
+                ]
+            },
+            {
+                "id": "01838",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Bitum Top — очиститель битумных пятен",
+                "vol": "5 л",
+                "price": 5500,
+                "img": [
+                    "01838",
+                    "01841"
+                ]
+            },
+            {
+                "id": "01670",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Антисиликон Eraser IPA — обезжириватель на спиртовой основе",
+                "vol": "450 мл",
+                "price": 0,
+                "img": [
+                    "01670"
+                ]
+            },
+            {
+                "id": "01837",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Антисиликон Eraser IPA — обезжириватель на спиртовой основе",
+                "vol": "5 л",
+                "price": 2410,
+                "img": [
+                    "01837"
+                ]
+            },
+            {
+                "id": "01680",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Набор «Для тотального доминирования на дороге»: Quick Point, Black Matt, Matt Polish + салфетка",
+                "vol": "3 × 250 мл",
+                "price": 930,
+                "img": [
+                    "01680"
+                ]
+            },
+            {
+                "id": "01683",
+                "cat": "chem",
+                "brand": "FoamFactor",
+                "name": "Набор «Автокосметичка»: Universal Cleaner, Quick Point, Matt Polish + салфетка",
+                "vol": "3 × 250 мл",
+                "price": 830,
+                "img": [
+                    "01683"
+                ]
+            },
+            {
+                "id": "01663",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Acid Glass — кислотный очиститель стёкол",
+                "vol": "500 мл",
+                "price": 550,
+                "img": [
+                    "01663"
+                ]
+            },
+            {
+                "id": "01665",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Comet — очиститель стёкол",
+                "vol": "500 мл",
+                "price": 360,
+                "img": [
+                    "01665"
+                ]
+            },
+            {
+                "id": "01655",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Hubble — абразивный очиститель стёкол",
+                "vol": "200 мл",
+                "price": 1200,
+                "img": [
+                    "01655"
+                ]
+            },
+            {
+                "id": "01646",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Tanos — удалитель водного камня",
+                "vol": "500 мл",
+                "price": 770,
+                "img": [
+                    "01646"
+                ]
+            },
+            {
+                "id": "01666",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Moon Stone — губка для чернения шин и внешнего пластика",
+                "vol": "",
+                "price": 200,
+                "img": [
+                    "01666"
+                ]
+            },
+            {
+                "id": "01658",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Black Matter — чернение шин",
+                "vol": "500 мл",
+                "price": 630,
+                "img": [
+                    "01658"
+                ]
+            },
+            {
+                "id": "01652",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Satin Matter — чернение шин",
+                "vol": "500 мл",
+                "price": 630,
+                "img": [
+                    "01652"
+                ]
+            },
+            {
+                "id": "01695",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Nebula — чернение внешнего пластика",
+                "vol": "500 мл",
+                "price": 1010,
+                "img": [
+                    "01695"
+                ]
+            },
+            {
+                "id": "01674",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Meteor — диэлектрическое средство для мойки подкапотного пространства",
+                "vol": "500 мл",
+                "price": 500,
+                "img": [
+                    "01674"
+                ]
+            },
+            {
+                "id": "01676",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Emission — консервант для подкапотного пространства",
+                "vol": "500 мл",
+                "price": 460,
+                "img": [
+                    "01676"
+                ]
+            },
+            {
+                "id": "01677",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Hydra — керамический шампунь",
+                "vol": "500 мл",
+                "price": 1100,
+                "img": [
+                    "01677"
+                ]
+            },
+            {
+                "id": "01685",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Umbra — универсальный квикдетейлер",
+                "vol": "500 мл",
+                "price": 240,
+                "img": [
+                    "01685"
+                ]
+            },
+            {
+                "id": "01687",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Umbra Klukva — универсальный квикдетейлер",
+                "vol": "500 мл",
+                "price": 360,
+                "img": [
+                    "01687"
+                ]
+            },
+            {
+                "id": "01697",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Quake — квикдетейлер для салона",
+                "vol": "500 мл",
+                "price": 360,
+                "img": [
+                    "01697"
+                ]
+            },
+            {
+                "id": "01698",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Terra — консервант для пластика",
+                "vol": "500 мл",
+                "price": 410,
+                "img": [
+                    "01698"
+                ]
+            },
+            {
+                "id": "01693",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Merzise — низкопенное средство для химчистки",
+                "vol": "500 мл",
+                "price": 490,
+                "img": [
+                    "01693"
+                ]
+            },
+            {
+                "id": "01699",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Spectrum — химчистка с эффектом кондиционера",
+                "vol": "500 мл",
+                "price": 390,
+                "img": [
+                    "01699"
+                ]
+            },
+            {
+                "id": "01691",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Challenger — пятновыводитель для кожи и текстиля",
+                "vol": "400 мл",
+                "price": 990,
+                "img": [
+                    "01691"
+                ]
+            },
+            {
+                "id": "01689",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Radiance — деликатный очиститель кожи",
+                "vol": "500 мл",
+                "price": 360,
+                "img": [
+                    "01689"
+                ]
+            },
+            {
+                "id": "01705",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Union — очиститель кожи",
+                "vol": "500 мл",
+                "price": 600,
+                "img": [
+                    "01705"
+                ]
+            },
+            {
+                "id": "01701",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Eclipse — кондиционер для кожи",
+                "vol": "500 мл",
+                "price": 660,
+                "img": [
+                    "01701"
+                ]
+            },
+            {
+                "id": "01703",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Apollo — питательная эссенция для кожи",
+                "vol": "500 мл",
+                "price": 1010,
+                "img": [
+                    "01703"
+                ]
+            },
+            {
+                "id": "01704",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Quail — очиститель древесных смол и птичьего помёта",
+                "vol": "500 мл",
+                "price": 590,
+                "img": [
+                    "01704"
+                ]
+            },
+            {
+                "id": "01712",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Mars — цитрусовый очиститель",
+                "vol": "400 мл",
+                "price": 970,
+                "img": [
+                    "01712"
+                ]
+            },
+            {
+                "id": "01711",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Anti Gravity — очиститель клея, скотча, краски и чернил",
+                "vol": "400 мл",
+                "price": 670,
+                "img": [
+                    "01711"
+                ]
+            },
+            {
+                "id": "01710",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Alien — антисиликон",
+                "vol": "500 мл",
+                "price": 410,
+                "img": [
+                    "01710"
+                ]
+            },
+            {
+                "id": "01844",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Alien — антисиликон",
+                "vol": "5 л",
+                "price": 2340,
+                "img": [
+                    "01844"
+                ]
+            },
+            {
+                "id": "01715",
+                "cat": "chem",
+                "brand": "Space Cosmetics",
+                "name": "Wasp — очиститель дисков с индикацией",
+                "vol": "500 мл",
+                "price": 450,
+                "img": [
+                    "01715"
+                ]
+            },
+            {
+                "id": "01842",
+                "cat": "chem",
+                "brand": "Shine Systems",
+                "name": "IPA — антисиликон-обезжириватель на спиртовой основе",
+                "vol": "5 л",
+                "price": 2560,
+                "img": [
+                    "01842"
+                ]
+            },
+            {
+                "id": "01779",
+                "cat": "chem",
+                "brand": "Shine Systems",
+                "name": "AlkaliOFF",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01779"
+                ]
+            },
+            {
+                "id": "01783",
+                "cat": "chem",
+                "brand": "Shine Systems",
+                "name": "Anti Graffiti",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01783"
+                ]
+            },
+            {
+                "id": "01785",
+                "cat": "chem",
+                "brand": "Shine Systems",
+                "name": "FilmOn",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01785"
+                ]
+            },
+            {
+                "id": "01846",
+                "cat": "chem",
+                "brand": "Volgamax",
+                "name": "Спирт изопропиловый абсолютированный 99,9 %",
+                "vol": "10 л",
+                "price": 0,
+                "img": [
+                    "01846"
+                ]
+            },
+            {
+                "id": "01845",
+                "cat": "chem",
+                "brand": "Amax",
+                "name": "Спирт изопропиловый абсолютированный 99,9 %",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01845"
+                ]
+            },
+            {
+                "id": "01826",
+                "cat": "chem",
+                "brand": "Apex Guard",
+                "name": "Card Wrap Soap — установочный состав для плёнок",
+                "vol": "1 л",
+                "price": 0,
+                "img": [
+                    "01826"
+                ]
+            },
+            {
+                "id": "01778",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "03 Too Shampoo — шампунь",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01778"
+                ]
+            },
+            {
+                "id": "01774",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "05 Metal Color",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01774"
+                ]
+            },
+            {
+                "id": "01751",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "10 Motor Star",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01751"
+                ]
+            },
+            {
+                "id": "01749",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "12 Motor Protector",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01749"
+                ]
+            },
+            {
+                "id": "01747",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "16 Plast Magic",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01747"
+                ]
+            },
+            {
+                "id": "01784",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "17 Display",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01784"
+                ]
+            },
+            {
+                "id": "01776",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "21 Degreaser",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01776"
+                ]
+            },
+            {
+                "id": "01764",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "24 Power King",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01764"
+                ]
+            },
+            {
+                "id": "01753",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "25 Quartz Flash",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01753"
+                ]
+            },
+            {
+                "id": "01767",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "26 Quick Step (персиковый)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01767"
+                ]
+            },
+            {
+                "id": "01769",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "26 Quick Step (сиреневый)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01769"
+                ]
+            },
+            {
+                "id": "01771",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "26 Quick Step (розовый)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01771"
+                ]
+            },
+            {
+                "id": "01772",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "27 Black Round",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01772"
+                ]
+            },
+            {
+                "id": "01773",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "27 Black Round (малый флакон)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01773"
+                ]
+            },
+            {
+                "id": "01765",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "28 Bug Fix",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01765"
+                ]
+            },
+            {
+                "id": "01752",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "31 Pride Plast",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01752"
+                ]
+            },
+            {
+                "id": "01781",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "37 Quick Shine",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01781"
+                ]
+            },
+            {
+                "id": "01750",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "45 Donna Night — ароматизатор (с распылителем)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01750"
+                ]
+            },
+            {
+                "id": "01758",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "45 Donna Night — ароматизатор (малый флакон)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01758",
+                    "01754"
+                ]
+            },
+            {
+                "id": "01780",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "46 Engine Star",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01780"
+                ]
+            },
+            {
+                "id": "01748",
+                "cat": "chem",
+                "brand": "Smart Open",
+                "name": "52 Angel Touch",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01748"
+                ]
+            },
+            {
+                "id": "01706",
+                "cat": "coat",
+                "brand": "Space Cosmetics",
+                "name": "Sphere — керамическое покрытие (набор)",
+                "vol": "",
+                "price": 3370,
+                "img": [
+                    "01706"
+                ]
+            },
+            {
+                "id": "01727",
+                "cat": "coat",
+                "brand": "Space Cosmetics",
+                "name": "Astra — керамическое покрытие (набор)",
+                "vol": "",
+                "price": 2650,
+                "img": [
+                    "01727"
+                ]
+            },
+            {
+                "id": "01726",
+                "cat": "coat",
+                "brand": "Space Cosmetics",
+                "name": "Vader — керамическое покрытие (набор)",
+                "vol": "",
+                "price": 6800,
+                "img": [
+                    "01726"
+                ]
+            },
+            {
+                "id": "01708",
+                "cat": "coat",
+                "brand": "Space Cosmetics",
+                "name": "Quazar — быстрое кварцевое покрытие",
+                "vol": "500 мл",
+                "price": 640,
+                "img": [
+                    "01708"
+                ]
+            },
+            {
+                "id": "01716",
+                "cat": "coat",
+                "brand": "Space Cosmetics",
+                "name": "Pulsar — керамический полимерный спрей",
+                "vol": "500 мл",
+                "price": 700,
+                "img": [
+                    "01716"
+                ]
+            },
+            {
+                "id": "01717",
+                "cat": "coat",
+                "brand": "Space Cosmetics",
+                "name": "Stick Me — твёрдый воск для кузова",
+                "vol": "75 г",
+                "price": 1220,
+                "img": [
+                    "01717"
+                ]
+            },
+            {
+                "id": "01713",
+                "cat": "coat",
+                "brand": "Space Cosmetics",
+                "name": "Starfall — наноспрей для стёкол и зеркал",
+                "vol": "200 мл",
+                "price": 1730,
+                "img": [
+                    "01713"
+                ]
+            },
+            {
+                "id": "01718",
+                "cat": "coat",
+                "brand": "Space Cosmetics",
+                "name": "Starfall 2.0 — нанопокрытие для стёкол, K1 + K2",
+                "vol": "2 × 200 мл",
+                "price": 5200,
+                "img": [
+                    "01718",
+                    "01714"
+                ]
+            },
+            {
+                "id": "01709",
+                "cat": "coat",
+                "brand": "Chemical Russian",
+                "name": "Graphene Coat — супергидрофобное покрытие с графеном",
+                "vol": "",
+                "price": 1150,
+                "img": [
+                    "01709"
+                ]
+            },
+            {
+                "id": "01720",
+                "cat": "coat",
+                "brand": "Gyeon",
+                "name": "Q² Quick View — покрытие для стёкол",
+                "vol": "",
+                "price": 4600,
+                "img": [
+                    "01720"
+                ]
+            },
+            {
+                "id": "01734",
+                "cat": "coat",
+                "brand": "Koch Chemie",
+                "name": "Ceramic Allround — керамическое покрытие (набор)",
+                "vol": "",
+                "price": 18900,
+                "img": [
+                    "01734"
+                ]
+            },
+            {
+                "id": "01721",
+                "cat": "coat",
+                "brand": "Krytex",
+                "name": "9H+ 2.0 — керамическое покрытие (набор)",
+                "vol": "",
+                "price": 22800,
+                "img": [
+                    "01721"
+                ]
+            },
+            {
+                "id": "01723",
+                "cat": "coat",
+                "brand": "Krytex",
+                "name": "Керамическое покрытие 2.0 (красная серия)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01723"
+                ]
+            },
+            {
+                "id": "01725",
+                "cat": "coat",
+                "brand": "Krytex",
+                "name": "Керамическое покрытие 2.0 (синяя серия)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01725"
+                ]
+            },
+            {
+                "id": "01819",
+                "cat": "polish",
+                "brand": "Koch Chemie",
+                "name": "H7.01 Schleifpaste — крупнозернистая абразивная полироль",
+                "vol": "1 л",
+                "price": 3400,
+                "img": [
+                    "01819"
+                ]
+            },
+            {
+                "id": "01821",
+                "cat": "polish",
+                "brand": "Koch Chemie",
+                "name": "H9.02 Heavy Cut — крупнозернистая абразивная полироль",
+                "vol": "1 л",
+                "price": 5950,
+                "img": [
+                    "01821"
+                ]
+            },
+            {
+                "id": "01805",
+                "cat": "polish",
+                "brand": "Space Cosmetics",
+                "name": "V2 — среднеабразивная полировальная паста",
+                "vol": "200 мл",
+                "price": 990,
+                "img": [
+                    "01805",
+                    "01813"
+                ]
+            },
+            {
+                "id": "01812",
+                "cat": "polish",
+                "brand": "Space Cosmetics",
+                "name": "V3 — антиголограммная финишная паста",
+                "vol": "200 мл",
+                "price": 790,
+                "img": [
+                    "01812"
+                ]
+            },
+            {
+                "id": "01700",
+                "cat": "polish",
+                "brand": "Space Cosmetics",
+                "name": "Chronos — полировальная паста для алюминия и хрома",
+                "vol": "200 мл",
+                "price": 560,
+                "img": [
+                    "01700"
+                ]
+            },
+            {
+                "id": "01818",
+                "cat": "polish",
+                "brand": "Space Cosmetics",
+                "name": "Chronos — полировальная паста для алюминия и хрома (саше)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01818"
+                ]
+            },
+            {
+                "id": "01744",
+                "cat": "polish",
+                "brand": "Space Cosmetics",
+                "name": "Bennu — полировальная глина",
+                "vol": "100 г",
+                "price": 0,
+                "img": [
+                    "01744"
+                ]
+            },
+            {
+                "id": "01848",
+                "cat": "polish",
+                "brand": "",
+                "name": "Шлифовальный круг, фиолетовый (сетка)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01848"
+                ]
+            },
+            {
+                "id": "01850",
+                "cat": "micro",
+                "brand": "Space Cosmetics",
+                "name": "Mega Roll — отрывные салфетки из микрофибры в рулоне, 35×35 см, 200 г/м²",
+                "vol": "40 шт",
+                "price": 1550,
+                "img": [
+                    "01850"
+                ]
+            },
+            {
+                "id": "01802",
+                "cat": "micro",
+                "brand": "Space Cosmetics",
+                "name": "Mamont — микрофибровое полотенце для сушки",
+                "vol": "",
+                "price": 660,
+                "img": [
+                    "01802"
+                ]
+            },
+            {
+                "id": "01798",
+                "cat": "micro",
+                "brand": "Dry Monster",
+                "name": "Standard — полотенце для сушки авто, оранжевое",
+                "vol": "",
+                "price": 840,
+                "img": [
+                    "01798"
+                ]
+            },
+            {
+                "id": "01799",
+                "cat": "micro",
+                "brand": "Dry Monster",
+                "name": "Standard — полотенце для сушки авто, серое",
+                "vol": "",
+                "price": 840,
+                "img": [
+                    "01799"
+                ]
+            },
+            {
+                "id": "01800",
+                "cat": "micro",
+                "brand": "Dry Monster",
+                "name": "Standard — полотенце для сушки авто, бирюзовое",
+                "vol": "",
+                "price": 840,
+                "img": [
+                    "01800"
+                ]
+            },
+            {
+                "id": "01803",
+                "cat": "micro",
+                "brand": "Dry Monster",
+                "name": "Universal — универсальная микрофибра, оранжевая",
+                "vol": "",
+                "price": 200,
+                "img": [
+                    "01803"
+                ]
+            },
+            {
+                "id": "01804",
+                "cat": "micro",
+                "brand": "Dry Monster",
+                "name": "Микрофибра серая с голубым кантом",
+                "vol": "",
+                "price": 290,
+                "img": [
+                    "01804"
+                ]
+            },
+            {
+                "id": "01847",
+                "cat": "micro",
+                "brand": "Dry Monster",
+                "name": "Glass — салфетка для стёкол и зеркал",
+                "vol": "",
+                "price": 200,
+                "img": [
+                    "01847"
+                ]
+            },
+            {
+                "id": "01797",
+                "cat": "micro",
+                "brand": "Shine Systems",
+                "name": "Glass Towel — безворсовая микрофибра для стёкол, 40×40 см",
+                "vol": "",
+                "price": 200,
+                "img": [
+                    "01797"
+                ]
+            },
+            {
+                "id": "01801",
+                "cat": "micro",
+                "brand": "FoamFactor",
+                "name": "Салфетка из микрофибры для полировки, 40×40 см, 600 г/м²",
+                "vol": "1 шт",
+                "price": 250,
+                "img": [
+                    "01801"
+                ]
+            },
+            {
+                "id": "01834",
+                "cat": "micro",
+                "brand": "FoamFactor",
+                "name": "Салфетка для сушки кузова, 50×60 см, 600 г/м², тёмно-серая",
+                "vol": "1 шт",
+                "price": 500,
+                "img": [
+                    "01834"
+                ]
+            },
+            {
+                "id": "01835",
+                "cat": "micro",
+                "brand": "FoamFactor",
+                "name": "Салфетка для сушки кузова, 50×60 см, 600 г/м², сиреневая",
+                "vol": "1 шт",
+                "price": 630,
+                "img": [
+                    "01835",
+                    "01832"
+                ]
+            },
+            {
+                "id": "01849",
+                "cat": "micro",
+                "brand": "BioLogic",
+                "name": "S-Wipe — нетканый протирочный материал, 34×49 см",
+                "vol": "",
+                "price": 750,
+                "img": [
+                    "01849"
+                ]
+            },
+            {
+                "id": "01745",
+                "cat": "film",
+                "brand": "Kadeli",
+                "name": "PDC Sensor Cutter — резак для вырезки плёнки под датчики парковки",
+                "vol": "",
+                "price": 9800,
+                "img": [
+                    "01745"
+                ]
+            },
+            {
+                "id": "01746",
+                "cat": "film",
+                "brand": "Kadeli",
+                "name": "Набор поролоновых аппликаторов-кругов с трафаретом",
+                "vol": "",
+                "price": 1700,
+                "img": [
+                    "01746"
+                ]
+            },
+            {
+                "id": "01738",
+                "cat": "film",
+                "brand": "Kadeli",
+                "name": "Набор выгонок-стиков для заправки плёнки",
+                "vol": "",
+                "price": 700,
+                "img": [
+                    "01738"
+                ]
+            },
+            {
+                "id": "01736",
+                "cat": "film",
+                "brand": "Kadeli",
+                "name": "Pick hair — набор крючков для удаления ворсинок",
+                "vol": "3 шт",
+                "price": 400,
+                "img": [
+                    "01736"
+                ]
+            },
+            {
+                "id": "01732",
+                "cat": "film",
+                "brand": "Kadeli",
+                "name": "Инструмент Kadeli (в коробке)",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01732"
+                ]
+            },
+            {
+                "id": "01741",
+                "cat": "film",
+                "brand": "Olfa",
+                "name": "SAC-1 — нож с лезвием 30°, 9 мм, Auto Lock",
+                "vol": "",
+                "price": 1300,
+                "img": [
+                    "01741"
+                ]
+            },
+            {
+                "id": "01830",
+                "cat": "film",
+                "brand": "Kadeli",
+                "name": "Industrial Heat Gun K11-4B — промышленный фен",
+                "vol": "",
+                "price": 3500,
+                "img": [
+                    "01830"
+                ]
+            },
+            {
+                "id": "01828",
+                "cat": "film",
+                "brand": "Qili",
+                "name": "Бесщёточный строительный фен 2000 Вт",
+                "vol": "",
+                "price": 3900,
+                "img": [
+                    "01828"
+                ]
+            },
+            {
+                "id": "01733",
+                "cat": "acc",
+                "brand": "Smart Open",
+                "name": "Brush Box — набор кистей для детейлинга с подставкой",
+                "vol": "5 шт",
+                "price": 1050,
+                "img": [
+                    "01733"
+                ]
+            },
+            {
+                "id": "01740",
+                "cat": "acc",
+                "brand": "",
+                "name": "Щётка-насадка на дрель, круглая",
+                "vol": "",
+                "price": 500,
+                "img": [
+                    "01740"
+                ]
+            },
+            {
+                "id": "01794",
+                "cat": "elec",
+                "brand": "iBOX",
+                "name": "EVO 4K — видеорегистратор 4K с LaserVision, Wi-Fi",
+                "vol": "",
+                "price": 19700,
+                "img": [
+                    "01794"
+                ]
+            },
+            {
+                "id": "01793",
+                "cat": "elec",
+                "brand": "iBOX",
+                "name": "Flip 2K — видеорегистратор, Wi-Fi",
+                "vol": "",
+                "price": 6500,
+                "img": [
+                    "01793"
+                ]
+            },
+            {
+                "id": "01792",
+                "cat": "elec",
+                "brand": "iBOX",
+                "name": "Alpha WiFi — видеорегистратор",
+                "vol": "",
+                "price": 6300,
+                "img": [
+                    "01792"
+                ]
+            },
+            {
+                "id": "01795",
+                "cat": "elec",
+                "brand": "",
+                "name": "Car Dashcam — видеорегистратор",
+                "vol": "",
+                "price": 6100,
+                "img": [
+                    "01795"
+                ]
+            },
+            {
+                "id": "01790",
+                "cat": "elec",
+                "brand": "iBOX",
+                "name": "RC FHD1 — камера заднего вида",
+                "vol": "",
+                "price": 2630,
+                "img": [
+                    "01790",
+                    "01788"
+                ]
+            },
+            {
+                "id": "01787",
+                "cat": "elec",
+                "brand": "iBOX",
+                "name": "Industrial Speed Card — карта памяти 64 ГБ",
+                "vol": "64 ГБ",
+                "price": 2550,
+                "img": [
+                    "01787"
+                ]
+            },
+            {
+                "id": "01851",
+                "cat": "wipe",
+                "brand": "Miles",
+                "name": "Winter CWW16AC — зимняя щётка стеклоочистителя, 400 мм / 16″",
+                "vol": "",
+                "price": 870,
+                "img": [
+                    "01851",
+                    "01853"
+                ]
+            },
+            {
+                "id": "01854",
+                "cat": "wipe",
+                "brand": "Miles",
+                "name": "Hybrid CWH17BC — гибридная щётка стеклоочистителя, 430 мм / 17″",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01854"
+                ]
+            },
+            {
+                "id": "01856",
+                "cat": "wipe",
+                "brand": "Miles",
+                "name": "Winter — зимняя щётка стеклоочистителя, 650 мм / 26″",
+                "vol": "",
+                "price": 0,
+                "img": [
+                    "01856"
+                ]
+            }
+        ]
+    }
+}

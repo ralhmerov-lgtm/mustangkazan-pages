@@ -1,0 +1,11 @@
+Обстановка бокса на главном экране. Все модели — Sketchfab, лицензия CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), материалы изменены (уменьшены текстуры, сжата геометрия).
+
+rack.glb — «Metal Storage Cabinet», автор jimbogies, CC Attribution — https://sketchfab.com/3d-models/4d49691a269745cabe0e1d5c1c3bef9b
+bench.glb — «Workbench», автор Bársh, CC Attribution — https://sketchfab.com/3d-models/0a49e3b3b9624a2bb21eeeb473397873
+pegbench.glb — «Workbench», автор JJ Chalupnik, CC Attribution — https://sketchfab.com/3d-models/9634d6a81a494925a909512c8048f446
+tires.glb — «Old, dirty, stacked tires, PBR textures [free]», автор ZiemniaQ, CC Attribution — https://sketchfab.com/3d-models/f9d64bd1fdde49fe8571f83f59114663
+vacuum.glb — «Shop Vacuum scan LOWPOLY», автор EFX, CC Attribution — https://sketchfab.com/3d-models/05c538e10ac942a19ab7d3812545c5db
+extinguisher.glb — «Fire Extinguisher», автор Loïc, CC Attribution — https://sketchfab.com/3d-models/5676b179b3b744c0aaae53a3dcea2300
+cart.glb — «[Free] Drawer Tool Cart (Used)», автор Robert Prispilović, CC Attribution — https://sketchfab.com/3d-models/da8955e5c8c448e58b013951f48148a0
+ladder.glb — «Fiberglass Step Ladder 6' (New)», автор Oliver Triplett, CC Attribution — https://sketchfab.com/3d-models/4f0a875a047d451cb65316f590bbcdc2
+master.glb — «Nathan Animated 003 - Walking 3D Man», автор Renderpeople, CC Attribution — https://sketchfab.com/3d-models/143a2b1ea5eb4385ae90a73657aca3bc

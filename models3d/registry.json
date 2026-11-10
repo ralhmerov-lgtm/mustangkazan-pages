@@ -1,0 +1,796 @@
+[
+ {
+  "k": "camry",
+  "car": "Toyota Camry",
+  "name": "Toyota Camry",
+  "paint": [
+   "Paint_Color"
+  ],
+  "glass": [
+   "^Index_0_2"
+  ],
+  "plate": "metal_white",
+  "wheelHack": true,
+  "belt": 0.52,
+  "front": "+z",
+  "credit": {
+   "a": "ItsDiyor",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/236a5a6e2fa6420fbdf641f4800cd544"
+  }
+ },
+ {
+  "k": "rav4",
+  "car": "Toyota RAV4",
+  "name": "Toyota RAV4",
+  "paint": [
+   "Silver_Sky_Metallic"
+  ],
+  "glass": [
+   "^Color_M09$"
+  ],
+  "tire": [
+   "^Tires$"
+  ],
+  "rim": [
+   "^Color_M04$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "tonielpro520",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/de74fe4e98004c92b1103947597d1b53"
+  }
+ },
+ {
+  "k": "prado",
+  "car": "Toyota Land Cruiser Prado",
+  "name": "Toyota Land Cruiser Prado",
+  "paint": [
+   "Body11Mtl$",
+   "Body21Mtl$"
+  ],
+  "glass": [
+   "Body131Mtl$"
+  ],
+  "tire": [
+   "Body221Mtl$"
+  ],
+  "rim": [
+   "Body231Mtl$"
+  ],
+  "front": "+x",
+  "credit": {
+   "a": "Romanov_13",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/8d2aa08e92da4c698ef922a71bae8729"
+  }
+ },
+ {
+  "k": "x5",
+  "car": "BMW X5",
+  "name": "BMW X5",
+  "paint": [
+   "^edge_color141164193255$"
+  ],
+  "glass": [
+   "^Windows$",
+   "^edge_color323233255$"
+  ],
+  "tire": [
+   "_Tire$"
+  ],
+  "rim": [
+   "^Rims1$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "David_Holiday",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/9b211d525797457e988c903f67d0b753"
+  }
+ },
+ {
+  "k": "bmw5",
+  "car": "BMW 5 Series",
+  "name": "BMW 5 Series",
+  "paint": [
+   "mesh48561Mtl$"
+  ],
+  "glass": [
+   "mesh911Mtl$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Mona x Supercars",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/c2910a4e0d154f2ebdc41e6265eaaac3"
+  }
+ },
+ {
+  "k": "eclass",
+  "car": "Mercedes E-Class",
+  "name": "Mercedes-Benz E-Class",
+  "paint": [
+   "^New_Material$"
+  ],
+  "glass": [
+   "^Glass$"
+  ],
+  "front": "-z",
+  "credit": {
+   "a": "Mona x Supercars",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/f61d8efb0b9b4c499fc66fcf35a4d09c"
+  }
+ },
+ {
+  "k": "gclass",
+  "car": "Mercedes G-Class",
+  "name": "Mercedes-Benz G-Class",
+  "paint": [
+   "^jeep__paint$"
+  ],
+  "glass": [
+   "^mirror$"
+  ],
+  "tire": [
+   "^Elastic_Rubber$"
+  ],
+  "rim": [
+   "^silver_rim$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "pranav27",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/fa70ea228e5749c2b4951a895385b055"
+  }
+ },
+ {
+  "k": "mustang",
+  "car": "Ford Mustang",
+  "name": "Ford Mustang",
+  "paint": [
+   "^carpaint$"
+  ],
+  "glass": [
+   "^tinted_glass$"
+  ],
+  "tire": [
+   "^tire$"
+  ],
+  "rim": [
+   "^plate$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Jiaxing",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/0eaa7a16796540f29461ddae05ecdeb3"
+  },
+  "wheels": [
+   "^GT500\\.?Wheel\\.?Ft\\.?L",
+   "^GT500\\.?Wheel\\.?Ft\\.?R",
+   "^GT500\\.?Wheel\\.?Bk\\.?L",
+   "^GT500\\.?Wheel\\.?Bk\\.?R"
+  ],
+  "doors": [
+   "^GT500\\.?Door(Glass)?\\.?L$",
+   "^GT500\\.?Door(Glass)?\\.?R$"
+  ]
+ },
+ {
+  "k": "cayenne",
+  "car": "Porsche Cayenne",
+  "name": "Porsche Cayenne",
+  "paint": [
+   "2022Paint_Material$"
+  ],
+  "glass": [
+   "2022Window_Material$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Maroi Mister Let Me Think Official 3D Studio",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/3f3fa4493ecc4826823f0cb27f638908"
+  }
+ },
+ {
+  "k": "vesta",
+  "car": "Lada Vesta",
+  "name": "Lada Vesta",
+  "paint": [
+   "^kuzov$"
+  ],
+  "glass": [
+   "^steklo$",
+   "^stekloton$"
+  ],
+  "rim": [
+   "^disk$"
+  ],
+  "front": "-z",
+  "credit": {
+   "a": "tiunov.se",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/3c333139feb744ae9d36767c0e9cabfd"
+  },
+  "doors": [
+   "^doorPL$",
+   "^doorPP$",
+   "^doorZL$",
+   "^doorZP$"
+  ]
+ },
+ {
+  "k": "k5",
+  "car": "Kia K5",
+  "name": "Kia K5",
+  "paint": [
+   "^insta_ua1k\\.006$"
+  ],
+  "glass": [
+   "^insta_ua1k\\.007$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "dannzjs",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/6fc788c08348419d92588f2f541c5b50"
+  }
+ },
+ {
+  "k": "sportage",
+  "car": "Kia Sportage",
+  "name": "Kia Sportage",
+  "paint": [
+   "Wolf_Gray"
+  ],
+  "glass": [
+   "__Windows"
+  ],
+  "tire": [
+   "_tread"
+  ],
+  "rim": [
+   "metal_rim_primary"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "karaman.arman",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/98a84407998a4bc6b4dee912b289f15b"
+  }
+ },
+ {
+  "k": "tiguan",
+  "car": "Volkswagen Tiguan",
+  "name": "Volkswagen Tiguan",
+  "paint": [
+   "^Paint_Color$"
+  ],
+  "glass": [
+   "^Index_0_2"
+  ],
+  "wheelHack": true,
+  "belt": 0.5,
+  "front": "+z",
+  "credit": {
+   "a": "ItsDiyor",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/fc46a721e21440a2a641750007942a13"
+  }
+ },
+ {
+  "k": "q7",
+  "car": "Audi Q7",
+  "name": "Audi Q7",
+  "paint": [
+   "^varnish$"
+  ],
+  "glass": [
+   "^glass$"
+  ],
+  "tire": [
+   "^wheel_rubber$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "razor24",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/65917c52e0b24f1289126128600ed7aa"
+  }
+ },
+ {
+  "k": "a6",
+  "car": "Audi A6",
+  "name": "Audi A6",
+  "paint": [
+   "^Metallic$"
+  ],
+  "glass": [
+   "^Translucent$"
+  ],
+  "front": "-z",
+  "credit": {
+   "a": "Mona x Supercars",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/04925f2cea0c4090a58d13d88e3f16d9"
+  }
+ },
+ {
+  "k": "rsq8",
+  "car": "Audi Q8",
+  "name": "Audi Q8",
+  "paint": [
+   "^Metallic$"
+  ],
+  "glass": [
+   "^Translucent$"
+  ],
+  "front": "-z",
+  "credit": {
+   "a": "DisneyCars",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/c30b4a6ec479473a814d030da10e97a8"
+  }
+ },
+ {
+  "k": "m4",
+  "car": "BMW M4",
+  "name": "BMW M4",
+  "paint": [
+   "^M4xNME_Paint$"
+  ],
+  "glass": [
+   "GlassClear"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Black Snow",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/26d05968e63b4fc28205cbb9abb0ea41"
+  }
+ },
+ {
+  "k": "x6",
+  "car": "BMW X6",
+  "name": "BMW X6",
+  "paint": [
+   "^Carro_Pintura$"
+  ],
+  "glass": [
+   "^Carro_Vidros"
+  ],
+  "tire": [
+   "^Carro_Pneu"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "tonielpro520",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/8f06ea5895cf4aefab7d0f1492ad1192"
+  }
+ },
+ {
+  "k": "tiggo8",
+  "car": "Chery Tiggo 8 Pro",
+  "name": "Chery Tiggo 8 Pro",
+  "paint": [
+   "carpaint"
+  ],
+  "glass": [
+   "glass_windows"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Nieve5677",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/4a51e690819a4111a2055205a1009167"
+  },
+  "tire": [
+   "^Carro_Pneu",
+   "^Carro_Lanterna$"
+  ]
+ },
+ {
+  "k": "tucson",
+  "car": "Hyundai Tucson",
+  "name": "Hyundai Tucson",
+  "paint": [
+   "^varnish$"
+  ],
+  "glass": [
+   "^glass$"
+  ],
+  "tire": [
+   "^wheel_rubber$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "olanalans12345",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/63329f3c57204a1a804a5d6a9882f66c"
+  }
+ },
+ {
+  "k": "niva",
+  "car": "Lada Niva",
+  "name": "Lada Niva",
+  "paint": [
+   "^kuzov$"
+  ],
+  "glass": [
+   "^steklo$",
+   "^stecloTon$"
+  ],
+  "front": "-z",
+  "credit": {
+   "a": "tiunov.se",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/5a83c0cc63df418fa5bb9a2bf98dc9a6"
+  },
+  "doors": [
+   "^doorL$"
+  ]
+ },
+ {
+  "k": "es",
+  "car": "Lexus ES",
+  "name": "Lexus ES",
+  "paint": [
+   "^Meshpart1Mtl$"
+  ],
+  "glass": [
+   "^Window"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Mona x Supercars",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/b4edfa2fd5cc48ada679352215e0105e"
+  }
+ },
+ {
+  "k": "rx",
+  "car": "Lexus RX",
+  "name": "Lexus RX",
+  "paint": [
+   "Sonic_Silver$"
+  ],
+  "glass": [
+   "__Windows$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "tonielpro520",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/13ddc257995b4e3fa6be35af690251c8"
+  }
+ },
+ {
+  "k": "cclass",
+  "car": "Mercedes-Benz C-Class",
+  "name": "Mercedes-Benz C-Class",
+  "paint": [
+   "^Paint_Color$"
+  ],
+  "glass": [
+   "^Index_0_2"
+  ],
+  "plate": "metal_white",
+  "wheelHack": true,
+  "belt": 0.52,
+  "front": "+z",
+  "credit": {
+   "a": "ItsDiyor",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/19d59344b7554e6ab614a6cc02e7ad0a"
+  }
+ },
+ {
+  "k": "p911",
+  "car": "Porsche 911",
+  "name": "Porsche 911",
+  "paint": [
+   "^body_main$"
+  ],
+  "glass": [
+   "^windows$"
+  ],
+  "tire": [
+   "^tires$"
+  ],
+  "front": "+x",
+  "credit": {
+   "a": "n.brizitskaya",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/877b1bc1739f4a2bb65d62fd7ffd9f75"
+  }
+ },
+ {
+  "k": "macan",
+  "car": "Porsche Macan",
+  "name": "Porsche Macan",
+  "paint": [
+   "Mamba_Green_Metal"
+  ],
+  "glass": [
+   "_Windows$"
+  ],
+  "tire": [
+   "_Tires$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "tonielpro520",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/14e73d3348d44fabb01ced4aa60c7db6"
+  }
+ },
+ {
+  "k": "panamera",
+  "car": "Porsche Panamera",
+  "name": "Porsche Panamera",
+  "paint": [
+   "^Paint1Mtl$"
+  ],
+  "glass": [
+   "^Windows1Mtl$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Mona x Supercars",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/e3223ce627e54f8eb4ae7520b0e6c49a"
+  }
+ },
+ {
+  "k": "corolla",
+  "car": "Toyota Corolla",
+  "name": "Toyota Corolla",
+  "paint": [
+   "^main_paint\\.001$"
+  ],
+  "glass": [
+   "^Material\\.004$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Armored Wave",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/36f95efb0585464cae43a25a3b3392e8"
+  }
+ },
+ {
+  "k": "polo",
+  "car": "Volkswagen Polo",
+  "name": "Volkswagen Polo",
+  "paint": [
+   "^polo17body$"
+  ],
+  "glass": [
+   "glass|steklo"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Res1n",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/9971a82322e54ab4b1302fed07ee126a"
+  },
+  "doors": [
+   "^polo17_door(panel|glass)?_FL$",
+   "^polo17_door(panel|glass)?_FR$",
+   "^polo17_door(panel|glass)?_RL$",
+   "^polo17_door(panel|glass)?_RR$"
+  ]
+ },
+ {
+  "k": "civic",
+  "car": "Honda Civic",
+  "name": "Honda Civic",
+  "paint": [
+   "^Paint$"
+  ],
+  "glass": [
+   "^glass$"
+  ],
+  "tire": [
+   "^wheel\\.2$"
+  ],
+  "rim": [
+   "^wheel\\.[01]$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Merc_TV",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/600b5900ab034fc19db376e6b6443366"
+  },
+  "doors": [
+   "^door_lf_dummy$",
+   "^door_rf_dummy$",
+   "^door_lr_dummy$",
+   "^door_rr_dummy$"
+  ],
+  "wheels": [
+   "^wheel_FL$",
+   "^wheel_FR$",
+   "^wheel_RL$",
+   "^wheel_RR$"
+  ]
+ },
+ {
+  "k": "xtrail",
+  "car": "Nissan X-Trail",
+  "name": "Nissan X-Trail",
+  "paint": [
+   "^Car_Paint$"
+  ],
+  "glass": [
+   "^Glass$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Ddiaz Design",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/f9f2cbdacac74ee7acfe1c731195ccaa"
+  }
+ },
+ {
+  "k": "cx5",
+  "car": "Mazda CX-5",
+  "name": "Mazda CX-5",
+  "paint": [
+   "^Paint_Color$"
+  ],
+  "glass": [
+   "^Index_0_2$"
+  ],
+  "plate": "metal_white",
+  "wheelHack": true,
+  "front": "+z",
+  "credit": {
+   "a": "ItsDiyor",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/ea176c6ebe814be3b06641bf038f8642"
+  }
+ },
+ {
+  "k": "rio",
+  "car": "Kia Rio",
+  "name": "Kia Rio",
+  "paint": [
+   "Steel_Gray$"
+  ],
+  "glass": [
+   "Hatchback_Windows$"
+  ],
+  "tire": [
+   "Hatchback_Tires$"
+  ],
+  "rim": [
+   "Hatchback_Rims\\d$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "tonielpro520",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/82803d9c4afb4cf2867ef364d31e6528"
+  }
+ },
+ {
+  "k": "solaris",
+  "car": "Hyundai Solaris",
+  "name": "Hyundai Solaris",
+  "paint": [
+   "^body$"
+  ],
+  "glass": [
+   "^vehicle_vehglass"
+  ],
+  "front": "-z",
+  "credit": {
+   "a": "L95XP",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/cec6b04b06724f1088129c1054ccb1ec"
+  }
+ },
+ {
+  "k": "octavia",
+  "car": "Škoda Octavia",
+  "name": "Škoda Octavia",
+  "paint": [
+   "^car_paint$"
+  ],
+  "glass": [
+   "^glass$"
+  ],
+  "tire": [
+   "^gum\\d?$|^guma$"
+  ],
+  "rim": [
+   "^silver0?$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "tonielpro520",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/c31169ccfd354b6c9b6f09964c113ae3"
+  }
+ },
+ {
+  "k": "havalf7",
+  "car": "Haval F7",
+  "name": "Haval F7",
+  "paint": [
+   "PRIMARY$"
+  ],
+  "glass": [
+   "^boli31"
+  ],
+  "tire": [
+   "tyrewallblack$"
+  ],
+  "rim": [
+   "^black9\\.001$"
+  ],
+  "front": "-z",
+  "credit": {
+   "a": "MattDoesBlender",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/76f4d871898d4355b2b9d35d0ad430b9"
+  },
+  "doors": [
+   "^door_dside_f",
+   "^door_pside_f",
+   "^door_dside_r",
+   "^door_pside_r"
+  ],
+  "wheels": [
+   "^wheel_FL$",
+   "^wheel_FR$",
+   "^wheel_RL$",
+   "^wheel_RR$"
+  ]
+ },
+ {
+  "k": "tiggo7",
+  "car": "Chery Tiggo 7 Pro",
+  "name": "Chery Tiggo 7 Pro",
+  "paint": [
+   "^phong1$"
+  ],
+  "glass": [
+   "^winsow$"
+  ],
+  "tire": [
+   "^tire_Map$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "Cobalt Design",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/db7a4897c2f94d458a67200b45a15c18"
+  }
+ },
+ {
+  "k": "dashing",
+  "car": "Jetour Dashing",
+  "name": "Jetour Dashing",
+  "paint": [
+   "PAINT_1$"
+  ],
+  "glass": [
+   "^lightglass$"
+  ],
+  "front": "+z",
+  "credit": {
+   "a": "UZBEK 3D",
+   "l": "CC BY",
+   "u": "https://sketchfab.com/3d-models/a8cd6bc24cbf44fc951631078caaffde"
+  }
+ }
+]
