@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-10 15:43",
+    "updated": "2026-11-24 10:04",
     "prices": {
         "ppf_el": "от 4 000 ₽",
         "ppf_city": "30 000 ₽",
@@ -287,7 +287,7 @@
                 "brand": "FoamFactor",
                 "name": "Антисиликон Eraser IPA — обезжириватель на спиртовой основе",
                 "vol": "450 мл",
-                "price": 0,
+                "price": 300,
                 "img": [
                     "01670"
                 ]
@@ -650,7 +650,7 @@
                 "brand": "Shine Systems",
                 "name": "AlkaliOFF",
                 "vol": "",
-                "price": 0,
+                "price": 440,
                 "img": [
                     "01779"
                 ]
@@ -664,7 +664,8 @@
                 "price": 0,
                 "img": [
                     "01783"
-                ]
+                ],
+                "off": true
             },
             {
                 "id": "01785",
@@ -675,7 +676,8 @@
                 "price": 0,
                 "img": [
                     "01785"
-                ]
+                ],
+                "off": true
             },
             {
                 "id": "01846",
@@ -683,7 +685,7 @@
                 "brand": "Volgamax",
                 "name": "Спирт изопропиловый абсолютированный 99,9 %",
                 "vol": "10 л",
-                "price": 0,
+                "price": 2600,
                 "img": [
                     "01846"
                 ]
@@ -694,7 +696,7 @@
                 "brand": "Amax",
                 "name": "Спирт изопропиловый абсолютированный 99,9 %",
                 "vol": "",
-                "price": 0,
+                "price": 2600,
                 "img": [
                     "01845"
                 ]
@@ -719,7 +721,8 @@
                 "price": 0,
                 "img": [
                     "01778"
-                ]
+                ],
+                "off": true
             },
             {
                 "id": "01774",
@@ -727,7 +730,7 @@
                 "brand": "Smart Open",
                 "name": "05 Metal Color",
                 "vol": "",
-                "price": 0,
+                "price": 520,
                 "img": [
                     "01774"
                 ]
@@ -738,7 +741,7 @@
                 "brand": "Smart Open",
                 "name": "10 Motor Star",
                 "vol": "",
-                "price": 0,
+                "price": 650,
                 "img": [
                     "01751"
                 ]
@@ -749,7 +752,7 @@
                 "brand": "Smart Open",
                 "name": "12 Motor Protector",
                 "vol": "",
-                "price": 0,
+                "price": 270,
                 "img": [
                     "01749"
                 ]
@@ -760,7 +763,7 @@
                 "brand": "Smart Open",
                 "name": "16 Plast Magic",
                 "vol": "",
-                "price": 0,
+                "price": 320,
                 "img": [
                     "01747"
                 ]
@@ -774,7 +777,8 @@
                 "price": 0,
                 "img": [
                     "01784"
-                ]
+                ],
+                "off": true
             },
             {
                 "id": "01776",
@@ -782,7 +786,7 @@
                 "brand": "Smart Open",
                 "name": "21 Degreaser",
                 "vol": "",
-                "price": 0,
+                "price": 270,
                 "img": [
                     "01776"
                 ]
@@ -796,7 +800,8 @@
                 "price": 0,
                 "img": [
                     "01764"
-                ]
+                ],
+                "off": true
             },
             {
                 "id": "01753",
@@ -807,7 +812,8 @@
                 "price": 0,
                 "img": [
                     "01753"
-                ]
+                ],
+                "off": true
             },
             {
                 "id": "01767",
@@ -815,7 +821,7 @@
                 "brand": "Smart Open",
                 "name": "26 Quick Step (персиковый)",
                 "vol": "",
-                "price": 0,
+                "price": 380,
                 "img": [
                     "01767"
                 ]
@@ -826,7 +832,7 @@
                 "brand": "Smart Open",
                 "name": "26 Quick Step (сиреневый)",
                 "vol": "",
-                "price": 0,
+                "price": 380,
                 "img": [
                     "01769"
                 ]
@@ -837,7 +843,7 @@
                 "brand": "Smart Open",
                 "name": "26 Quick Step (розовый)",
                 "vol": "",
-                "price": 0,
+                "price": 380,
                 "img": [
                     "01771"
                 ]
@@ -848,7 +854,7 @@
                 "brand": "Smart Open",
                 "name": "27 Black Round",
                 "vol": "",
-                "price": 0,
+                "price": 670,
                 "img": [
                     "01772"
                 ]
@@ -859,7 +865,7 @@
                 "brand": "Smart Open",
                 "name": "27 Black Round (малый флакон)",
                 "vol": "",
-                "price": 0,
+                "price": 370,
                 "img": [
                     "01773"
                 ]
@@ -870,7 +876,7 @@
                 "brand": "Smart Open",
                 "name": "28 Bug Fix",
                 "vol": "",
-                "price": 0,
+                "price": 310,
                 "img": [
                     "01765"
                 ]
@@ -881,7 +887,7 @@
                 "brand": "Smart Open",
                 "name": "31 Pride Plast",
                 "vol": "",
-                "price": 0,
+                "price": 880,
                 "img": [
                     "01752"
                 ]
@@ -892,7 +898,7 @@
                 "brand": "Smart Open",
                 "name": "37 Quick Shine",
                 "vol": "",
-                "price": 0,
+                "price": 500,
                 "img": [
                     "01781"
                 ]
@@ -903,7 +909,7 @@
                 "brand": "Smart Open",
                 "name": "45 Donna Night — ароматизатор (с распылителем)",
                 "vol": "",
-                "price": 0,
+                "price": 450,
                 "img": [
                     "01750"
                 ]
@@ -914,7 +920,7 @@
                 "brand": "Smart Open",
                 "name": "45 Donna Night — ароматизатор (малый флакон)",
                 "vol": "",
-                "price": 0,
+                "price": 210,
                 "img": [
                     "01758",
                     "01754"
@@ -926,7 +932,7 @@
                 "brand": "Smart Open",
                 "name": "46 Engine Star",
                 "vol": "",
-                "price": 0,
+                "price": 270,
                 "img": [
                     "01780"
                 ]
@@ -937,7 +943,7 @@
                 "brand": "Smart Open",
                 "name": "52 Angel Touch",
                 "vol": "",
-                "price": 0,
+                "price": 340,
                 "img": [
                     "01748"
                 ]
@@ -1380,7 +1386,7 @@
                 "brand": "Kadeli",
                 "name": "Инструмент Kadeli (в коробке)",
                 "vol": "",
-                "price": 0,
+                "price": 2800,
                 "img": [
                     "01732"
                 ]
@@ -1525,7 +1531,7 @@
                 "brand": "Miles",
                 "name": "Hybrid CWH17BC — гибридная щётка стеклоочистителя, 430 мм / 17″",
                 "vol": "",
-                "price": 0,
+                "price": 890,
                 "img": [
                     "01854"
                 ]
@@ -1536,7 +1542,7 @@
                 "brand": "Miles",
                 "name": "Winter — зимняя щётка стеклоочистителя, 650 мм / 26″",
                 "vol": "",
-                "price": 0,
+                "price": 1050,
                 "img": [
                     "01856"
                 ]
