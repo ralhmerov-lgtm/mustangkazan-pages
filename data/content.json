@@ -33,7 +33,8 @@
         "noise_dash": "от 25 000 ₽",
         "noise_pack": "от 75 000 ₽",
         "biled_std": "от 22 000 ₽",
-        "biled_pro": "от 45 000 ₽"
+        "biled_pro": "от 45 000 ₽",
+        "moto": "от 70 000 ₽"
     },
     "promos": [
         {
@@ -62,7 +63,8 @@
                 "работа с плёнками «Азбуки Плёнок»",
                 "сертификат студии"
             ],
-            "time": "5 дней"
+            "time": "5 дней",
+            "price": "от 100 000 ₽"
         },
         {
             "t": "Тонировка",
@@ -72,7 +74,8 @@
                 "замер светопропускания",
                 "сертификат студии"
             ],
-            "time": "3 дня"
+            "time": "3 дня",
+            "price": "от 50 000 ₽"
         },
         {
             "t": "Полировка и керамика",
@@ -82,14 +85,340 @@
                 "практика на машинах клиентов",
                 "сертификат студии"
             ],
-            "time": "4 дня"
+            "time": "4 дня",
+            "price": "от 50 000 ₽"
+        },
+        {
+            "t": "Шлифовка и полировка стёкол",
+            "d": "Удаление царапин и потёртостей со стекла: шлифовка и полировка до прозрачности.",
+            "l": [
+                "практика на реальных машинах",
+                "сертификат студии"
+            ],
+            "price": "от 100 000 ₽"
         }
     ],
     "edits": [],
     "links": {
         "tg": "https://t.me/+79061350011"
     },
-    "albums": [],
+    "albums": [
+        {
+            "id": "okleyka",
+            "t": "Оклейка цветной плёнкой",
+            "photos": [
+                {
+                    "id": "mustang-okleyka-01",
+                    "f": "mustang-okleyka-01.webp",
+                    "th": "mustang-okleyka-01-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Внедорожник в оливковой матовой плёнке в боксе студии «Мустанг»"
+                },
+                {
+                    "id": "mustang-okleyka-02",
+                    "f": "mustang-okleyka-02.webp",
+                    "th": "mustang-okleyka-02-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Внедорожник после оклейки оливковой матовой плёнкой, вид спереди"
+                }
+            ]
+        },
+        {
+            "id": "ppf",
+            "t": "Защитная плёнка PPF",
+            "photos": [
+                {
+                    "id": "mustang-ppf-01",
+                    "f": "mustang-ppf-01.webp",
+                    "th": "mustang-ppf-01-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Защитная плёнка на лобовом стекле автомобиля в боксе «Мустанга»"
+                },
+                {
+                    "id": "mustang-ppf-02",
+                    "f": "mustang-ppf-02.webp",
+                    "th": "mustang-ppf-02-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Подготовка ниши дверной ручки к оклейке защитной плёнкой"
+                },
+                {
+                    "id": "mustang-ppf-03",
+                    "f": "mustang-ppf-03.webp",
+                    "th": "mustang-ppf-03-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Мастер выгоняет раствор из-под плёнки в нише дверной ручки"
+                },
+                {
+                    "id": "mustang-ppf-04",
+                    "f": "mustang-ppf-04.webp",
+                    "th": "mustang-ppf-04-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Подрезка защитной плёнки в нише дверной ручки"
+                },
+                {
+                    "id": "mustang-ppf-05",
+                    "f": "mustang-ppf-05.webp",
+                    "th": "mustang-ppf-05-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Плоттер вырезает защитную плёнку по лекалу автомобиля"
+                }
+            ]
+        },
+        {
+            "id": "studiya",
+            "t": "Студия",
+            "photos": [
+                {
+                    "id": "mustang-studiya-01",
+                    "f": "mustang-studiya-01.webp",
+                    "th": "mustang-studiya-01-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Кроссовер в боксе 1 автостудии «Мустанг», мастера за работой"
+                },
+                {
+                    "id": "mustang-studiya-02",
+                    "f": "mustang-studiya-02.webp",
+                    "th": "mustang-studiya-02-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Цех автостудии «Мустанг» с шестигранным светом"
+                },
+                {
+                    "id": "mustang-studiya-03",
+                    "f": "mustang-studiya-03.webp",
+                    "th": "mustang-studiya-03-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Мастера студии у автомобиля в боксе"
+                },
+                {
+                    "id": "mustang-studiya-04",
+                    "f": "mustang-studiya-04.webp",
+                    "th": "mustang-studiya-04-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Вход в бокс 1: мастера готовят автомобиль к работе"
+                },
+                {
+                    "id": "mustang-studiya-05",
+                    "f": "mustang-studiya-05.webp",
+                    "th": "mustang-studiya-05-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Автомобиль в цехе студии, разобран перед оклейкой плёнкой"
+                },
+                {
+                    "id": "mustang-studiya-06",
+                    "f": "mustang-studiya-06.webp",
+                    "th": "mustang-studiya-06-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Цех студии и стенд с рулонами плёнки"
+                }
+            ]
+        },
+        {
+            "id": "tonirovka",
+            "t": "Тонировка",
+            "photos": [
+                {
+                    "id": "mustang-tonirovka-01",
+                    "f": "mustang-tonirovka-01.webp",
+                    "th": "mustang-tonirovka-01-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Мастер протирает стекло задней двери после тонировки"
+                },
+                {
+                    "id": "mustang-tonirovka-02",
+                    "f": "mustang-tonirovka-02.webp",
+                    "th": "mustang-tonirovka-02-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка заднего стекла: мастер прогревает плёнку феном"
+                },
+                {
+                    "id": "mustang-tonirovka-03",
+                    "f": "mustang-tonirovka-03.webp",
+                    "th": "mustang-tonirovka-03-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка заднего стекла: мастер прогревает плёнку феном"
+                },
+                {
+                    "id": "mustang-tonirovka-04",
+                    "f": "mustang-tonirovka-04.webp",
+                    "th": "mustang-tonirovka-04-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка заднего стекла: мастер прогревает плёнку феном"
+                },
+                {
+                    "id": "mustang-tonirovka-05",
+                    "f": "mustang-tonirovka-05.webp",
+                    "th": "mustang-tonirovka-05-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка заднего стекла: мастер прогревает плёнку феном"
+                },
+                {
+                    "id": "mustang-tonirovka-06",
+                    "f": "mustang-tonirovka-06.webp",
+                    "th": "mustang-tonirovka-06-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка бокового стекла: выгонка воды ракелем"
+                },
+                {
+                    "id": "mustang-tonirovka-07",
+                    "f": "mustang-tonirovka-07.webp",
+                    "th": "mustang-tonirovka-07-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка бокового стекла: выгонка воды ракелем"
+                },
+                {
+                    "id": "mustang-tonirovka-08",
+                    "f": "mustang-tonirovka-08.webp",
+                    "th": "mustang-tonirovka-08-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка бокового стекла: выгонка воды ракелем"
+                },
+                {
+                    "id": "mustang-tonirovka-09",
+                    "f": "mustang-tonirovka-09.webp",
+                    "th": "mustang-tonirovka-09-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка бокового стекла: выгонка воды ракелем"
+                },
+                {
+                    "id": "mustang-tonirovka-10",
+                    "f": "mustang-tonirovka-10.webp",
+                    "th": "mustang-tonirovka-10-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка бокового стекла: выгонка воды ракелем"
+                },
+                {
+                    "id": "mustang-tonirovka-11",
+                    "f": "mustang-tonirovka-11.webp",
+                    "th": "mustang-tonirovka-11-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка бокового стекла: выгонка воды ракелем"
+                },
+                {
+                    "id": "mustang-tonirovka-12",
+                    "f": "mustang-tonirovka-12.webp",
+                    "th": "mustang-tonirovka-12-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка бокового стекла: выгонка воды ракелем"
+                },
+                {
+                    "id": "mustang-tonirovka-13",
+                    "f": "mustang-tonirovka-13.webp",
+                    "th": "mustang-tonirovka-13-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка бокового стекла: выгонка воды ракелем"
+                },
+                {
+                    "id": "mustang-tonirovka-14",
+                    "f": "mustang-tonirovka-14.webp",
+                    "th": "mustang-tonirovka-14-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Тонировка бокового стекла: выгонка воды ракелем"
+                },
+                {
+                    "id": "mustang-tonirovka-15",
+                    "f": "mustang-tonirovka-15.webp",
+                    "th": "mustang-tonirovka-15-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Мастер прогревает кромку тонировочной плёнки феном"
+                }
+            ]
+        },
+        {
+            "id": "shumo",
+            "t": "Шумоизоляция",
+            "photos": [
+                {
+                    "id": "mustang-shumo-01",
+                    "f": "mustang-shumo-01.webp",
+                    "th": "mustang-shumo-01-480.webp",
+                    "tw": 320,
+                    "w": 853,
+                    "h": 1280,
+                    "alt": "Мастер у снятого подкрылка перед шумоизоляцией колёсной арки"
+                }
+            ]
+        },
+        {
+            "id": "polirovka",
+            "t": "Полировка и подготовка кузова",
+            "photos": [
+                {
+                    "id": "mustang-polirovka-01",
+                    "f": "mustang-polirovka-01.webp",
+                    "th": "mustang-polirovka-01-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Мастер чистит бампер щёткой перед полировкой"
+                },
+                {
+                    "id": "mustang-polirovka-02",
+                    "f": "mustang-polirovka-02.webp",
+                    "th": "mustang-polirovka-02-480.webp",
+                    "tw": 480,
+                    "w": 1280,
+                    "h": 854,
+                    "alt": "Очистка бампера перед полировкой под шестигранным светом"
+                }
+            ]
+        }
+    ],
     "shop": {
         "cats": [
             [
