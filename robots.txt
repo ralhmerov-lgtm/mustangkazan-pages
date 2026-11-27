@@ -5,3 +5,4 @@ Disallow: /tryon3d.html
 Disallow: /debug3d.html
 
 Sitemap: https://mustangkazan.ru/sitemap.xml
+Sitemap: https://mustangkazan.ru/sitemap-stati.xml
