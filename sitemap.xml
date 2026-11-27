@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://mustangkazan.ru/</loc><lastmod>2026-11-20</lastmod><priority>1.0</priority></url>
+  <url><loc>https://mustangkazan.ru/</loc><lastmod>2026-11-27</lastmod><priority>1.0</priority>
+    <image:image><image:loc>https://mustangkazan.ru/og-glavnaya.jpg</image:loc></image:image>
+    <image:image><image:loc>https://mustangkazan.ru/img/home/studiya-mustang-ceh.webp</image:loc></image:image>
+    <image:image><image:loc>https://mustangkazan.ru/img/home/kak-my-rabotaem-mastera.webp</image:loc></image:image>
+    <image:image><image:loc>https://mustangkazan.ru/gallery/mustang-okleyka-01.webp</image:loc></image:image>
+    <image:image><image:loc>https://mustangkazan.ru/gallery/mustang-okleyka-02.webp</image:loc></image:image></url>
   <url><loc>https://mustangkazan.ru/uslugi/okleyka-avto-plenkoy-kazan.html</loc><lastmod>2026-10-25</lastmod><priority>0.9</priority></url>
   <url><loc>https://mustangkazan.ru/uslugi/bronirovanie-avto-ppf-kazan.html</loc><lastmod>2026-11-20</lastmod><priority>0.9</priority></url>
   <url><loc>https://mustangkazan.ru/uslugi/bronirovanie-lobovogo-stekla-kazan.html</loc><lastmod>2026-11-20</lastmod><priority>0.9</priority>
